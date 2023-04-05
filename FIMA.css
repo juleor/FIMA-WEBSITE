@@ -1163,22 +1163,19 @@
 
 @media (max-width: 575px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 473px;
+    min-height: 534px;
   }
 
   .u-section-7 .u-video-1 {
-    height: 190px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
-  }
-
-  .u-section-7 .embed-responsive-1 {
-    left: -39%;
-    top: -39%;
+    height: 163px;
+    width: 289px;
+    margin-top: 85px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-7 .u-text-1 {
+    margin-top: 22px;
     margin-left: auto;
   }
 
